@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vidushi 
-- 👀 I’m interesteJd in learning new technologies.
+- 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on some good project which can help me to grab a good job in software world.
+- 💞️ I’m looking to collaborate on some good projects which can help me to grab a good job in industry.
 - 📫 How to reach me :) https://www.linkedin.com/in/vidushi-srivastava-826b55206?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging%3BYULC7bYvQM%2BJwcqqMFfAMw%3D%3D
 
 <!---
